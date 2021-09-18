@@ -26,20 +26,21 @@
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-Eyyyy!!! <br />
+Heyyyy!!! <br />
 I am <b>Naman Goyal</b> better known as 'Naman027'🕵🏼‍♂️ <br />
 I am from <strong>India </strong><br />
-I'm a guy who enjoy developing and I don't like calling myself <del>"Developer"</del> 🖥️ <i>(because some people have a wrong concept of the word) </i> <br />
+<!-- I'm a guy who enjoy developing and I don't like calling myself <del>"Developer"</del> 🖥️ <i>(because some people have a wrong concept of the word) </i> <br />
 So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
 If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
-Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
+Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -->
+I like exploring tech and building new stuffs. I like to explore new algorithms and follow competitive programming and web development.
 <br/><br/> 
 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently studying at IIT Guwahati.
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Proyects
-- 🌱 &nbsp; I’m currently learning Django, Node.js, SpringBoot; 
+- 🌱 &nbsp; I’m currently learning Django, Node.js, SpringBoot. I love competitve Programming and like to explore a lot; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Naman027?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/naman27/)
