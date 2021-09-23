@@ -1,7 +1,7 @@
 <a href="https://github.com/Naman027">![Naman Profile GIF](./assets/profile_presentation.gif)</a>
 
 <!-- Social icons section -->
-<h1 align="center"> Social Media: </h1>
+<h2 align="center"> Social Media: </h2>
   <p align="center">
     <a href="https://twitter.com/NamanGo51281031?s=08">
       <img src="https://img.shields.io/badge/twitter-7cebf5?&style=for-the-badge&logo=twitter&logoColor=black">
@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
-</h1>
+</h2>
 
 <hr>
 
@@ -48,7 +48,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -
 
 <!-- languajes and skills section -->
 
-<h1 align="center"> Languages/Frameworks I'm good at: </h1>
+<h2 align="center"> Languages/Frameworks I'm good at: </h2>
 <p align="center">
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
@@ -61,7 +61,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -
   <!-- <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code> -->
 </p>
 
-<h1 align="center"> Languages/Frameworks I'm learning: </h1>
+<h2 align="center"> Languages/Frameworks I'm learning: </h2>
 <p align="center">
   <!-- <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code> -->
   <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
@@ -71,7 +71,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
 </p>
 
-<h1 align="center"> Environments I work with: </h1>
+<h2 align="center"> Environments I work with: </h2>
 <p align="center">
   <!-- <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code> -->
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
