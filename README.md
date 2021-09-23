@@ -106,8 +106,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -
   </p>
 </p> -->
 
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
+<!-- <p align="center">&#8192;</p>
+<p align="center">&#8192;</p> -->
 
 <p align="left">
   <a href="https://github.com/Naman027?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
