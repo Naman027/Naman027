@@ -26,7 +26,7 @@
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-                     Heyyyy!!! <br />
+Heyyyy!!! <br />
 - I am <b>Naman Goyal</b>  🕵🏼‍♂️. <br />
 - I am from <strong>India </strong><br />
 - I like exploring tech and building new stuffs. I like to explore new algorithms and follow competitive programming and web development.
