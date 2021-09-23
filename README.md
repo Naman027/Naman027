@@ -27,17 +27,15 @@
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
 Heyyyy!!! <br />
-I am <b>Naman Goyal</b> better known as 'Naman027'🕵🏼‍♂️ <br />
+I am <b>Naman Goyal</b>  🕵🏼‍♂️. <br />
 I am from <strong>India </strong><br />
 I like exploring tech and building new stuffs. I like to explore new algorithms and follow competitive programming and web development.
 <!-- I'm a guy who enjoy developing and I don't like calling myself <del>"Developer"</del> 🖥️ <i>(because some people have a wrong concept of the word) </i> <br />
 So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
 If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -->
-<br/><br/> 
 
 ### 🧐 More About Me:
-
 - 🔭 &nbsp; I’m currently studying at IIT Guwahati.
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Proyects
 - 🌱 &nbsp; I’m currently learning Django, Node.js, SpringBoot. I love competitve Programming and like to explore a lot; 
