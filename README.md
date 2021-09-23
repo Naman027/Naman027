@@ -46,8 +46,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -
 - 🎷 &nbsp; When I am free, I like to listen songs and watch Movies
 <!-- - 📝 &nbsp; Checkout my [resume]() -->
 
-<br><br><br>
-
 <!-- languajes and skills section -->
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
@@ -62,7 +60,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
   <!-- <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code> -->
 </p>
-<br>
 
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
@@ -73,7 +70,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -
   <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
 </p>
-<br>
 
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
@@ -82,7 +78,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -
   <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
 </p>
-<br>
 
 <!-- GitHub stats section -->
 
@@ -90,10 +85,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Naman027's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Naman027&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Naman027's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman027&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
@@ -126,7 +119,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup> -
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Naman027&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<br>
 
 <!---
 Naman027/Naman027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
