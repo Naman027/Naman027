@@ -1,4 +1,4 @@
-<a href="https://github.com/Naman027">![Naman Profile GIF]</a>
+<!-- <a href="https://github.com/Naman027">![Naman Profile GIF]</a> -->
 
 <!-- Social icons section -->
 <h2 align="center"> Social Media: </h2>
